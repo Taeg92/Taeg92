@@ -33,7 +33,7 @@
 
 
 
-<div align="center">
+<div>
     <img src="https://img.shields.io/badge/-Javascript-red">
     <img src="https://img.shields.io/badge/-Node.js-orange">
     <img src="https://img.shields.io/badge/-Express-yellow">
