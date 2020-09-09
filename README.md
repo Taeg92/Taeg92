@@ -29,7 +29,7 @@
 
 
 
-### 💡 Technology Stack
+### 💡 Tech Stack
 
 
 
