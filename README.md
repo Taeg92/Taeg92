@@ -30,8 +30,7 @@
 
 
 ### 💡 Tech Stack
-
-
+> Introduce my tech stack
 
 <div>
     <img src="https://img.shields.io/badge/-Javascript-red">
