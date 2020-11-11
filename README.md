@@ -35,9 +35,9 @@
 <div>
     <img src="https://img.shields.io/badge/-Javascript-red">
     <img src="https://img.shields.io/badge/-Node.js-orange">
-    <img src="https://img.shields.io/badge/-Express-yellow">
+    <img src="https://img.shields.io/badge/-Django-yellow">
     <img src="https://img.shields.io/badge/-Vue.js-brightgreen">
-    <img src="https://img.shields.io/badge/-Django-blue">
+    <img src="https://img.shields.io/badge/-React-blue">
     <img src="https://img.shields.io/badge/-HTML-blueviolet">
     <img src="https://img.shields.io/badge/-CSS-violet">
 </div>
